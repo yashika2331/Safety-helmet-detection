@@ -21,15 +21,28 @@ Webcam or camera for real-time detection
 Dataset for training and validation (if applicable)
 
 **Installation**
-1.Clone this repository to your local machine:
+
+1.Clone this repository to your local machine
+
+
 2.Activate the environment 
+
 3.Install Tensorflow
+
 4.Clone Tensorflow Object Detection API 
+
  https://github.com/tensorflow/models
+ 
 5.Compiling protocol buffers
+
 https://drive.google.com/drive/u/0/folders/1DUaVmJK63hL-F3Wjex1ojwhSI26tMAT_
+
 6.Install all dependencies from setup.py file from tensorflow(tf1) package
+
 7.Download SSD Mobilenet Model and pre trained weights of mscoco datasets and test on videos 
+
 https://drive.google.com/drive/u/0/folders/1uXjHpTiZZnVXzppomwsOxls38gRhyVjH
+
 8.Download pretrained weights of helmet detection model and run on inference videos
+
 https://drive.google.com/drive/u/0/folders/17XPL7pKDiKi4dIJujR8L_Roep1MEmfBr
