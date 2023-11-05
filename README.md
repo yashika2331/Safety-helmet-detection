@@ -5,6 +5,10 @@
 
 This project is aimed at developing a helmet detection system using computer vision and machine learning techniques. The system is designed to analyze images or video streams to detect the presence or absence of helmets on individuals. This can be particularly useful for enhancing safety in settings such as construction sites, factories, or motorcycle monitoring.
 
+
+![image](https://github.com/yashika2331/Safety-helmet-detection/assets/83694713/c801075d-ede1-41b3-abf2-56a061ac52af)
+
+
 **Features**
 
 Detect the presence of helmets in images or real-time video streams.
@@ -48,7 +52,7 @@ https://drive.google.com/drive/u/0/folders/1uXjHpTiZZnVXzppomwsOxls38gRhyVjH
 https://drive.google.com/drive/u/0/folders/17XPL7pKDiKi4dIJujR8L_Roep1MEmfBr
 
 
-![image](https://github.com/yashika2331/Safety-helmet-detection/assets/83694713/31bf2651-4acb-4696-b615-13ccbcd2a415)
+
 
 
 
