@@ -28,6 +28,10 @@ Dataset for training and validation (if applicable)
 
 1.Clone this repository to your local machine
 
+```bash
+    git clone https://github.com/yashika2331/Safety-helmet-detection.git
+    cd Safety-helmet-detection
+    ```
 
 2.Activate the environment 
 
@@ -35,7 +39,10 @@ Dataset for training and validation (if applicable)
 
 4.Clone Tensorflow Object Detection API 
 
- https://github.com/tensorflow/models
+ ```bash
+    git clone https://github.com/tensorflow/models.git
+    cd facial-emotion-recognition
+    ```
  
 5.Compiling protocol buffers
 
