@@ -31,7 +31,7 @@ Dataset for training and validation (if applicable)
 ```bash
     git clone https://github.com/yashika2331/Safety-helmet-detection.git
     cd Safety-helmet-detection
-    ```
+```
 
 2.Activate the environment 
 
@@ -42,7 +42,7 @@ Dataset for training and validation (if applicable)
  ```bash
     git clone https://github.com/tensorflow/models.git
     cd facial-emotion-recognition
-    ```
+ ```
  
 5.Compiling protocol buffers
 
